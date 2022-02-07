@@ -46,6 +46,8 @@ code {
 }
 
 .svg {
-    height: 95vh;
-    width: 95vw;
+    max-height: 95vh;
+    height: 100%;
+    max-width: 95vw;
+    width: 100%;
 }
