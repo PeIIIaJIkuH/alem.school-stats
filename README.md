@@ -12,6 +12,7 @@ npm run dev
 ```
 
 - Now open the http://localhost:3000 on any browser you want.
+- [Deploy on netlify](https://graphql-peiiiajikuh.netlify.app/)
 
 ## Screenshots
 
