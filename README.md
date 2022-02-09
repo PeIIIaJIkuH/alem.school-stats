@@ -11,10 +11,11 @@ npm install
 npm run dev
 ```
 
-- If you have errors with digital envelope routines::unsupported, then run the following command:
+- Now open the http://localhost:3000 on any browser you want.
 
-```sh
-export NODE_OPTIONS=--openssl-legacy-provider
-```
+## Screenshots
 
-- Now open the http://localhost:3000 on any browser you want
+- XP chart
+  ![XP chart](src/assets/screenshots/xp-chart.jpg)
+- Level chart
+  ![Level chart](src/assets/screenshots/level-chart.jpg)
