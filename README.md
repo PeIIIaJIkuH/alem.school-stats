@@ -17,6 +17,6 @@ npm run dev
 ## Screenshots
 
 - XP chart
-  ![XP chart](src/assets/screenshots/xp-chart.jpg)
+- ![XP chart](src/assets/screenshots/xp-chart.jpg)
 - Level chart
-  ![Level chart](src/assets/screenshots/level-chart.jpg)
+- ![Level chart](src/assets/screenshots/level-chart.jpg)
